@@ -2,6 +2,7 @@ Spring-example-school
 =====================
 
 Spring example for Java novice 
+未経験者のためのSpringテンプレートの格納庫です
 
 # Purpose
 
