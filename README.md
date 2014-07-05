@@ -28,6 +28,10 @@ really undertake the project useful to the real world web application developmen
 - Mockito
 - EasyMock
 
+## UI Test
+
+- Selenium
+
 ## Coverage
 
 - Cobertura
