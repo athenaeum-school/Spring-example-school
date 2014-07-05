@@ -12,5 +12,26 @@ build tools, and unit test frameworks but not by professional programmers.
 # Background
 
 The project is a part of charge-no-fees job training programme. This will encourage the participants to
-really undertake the project useful to the real world web application developments, and use this template
-for their future career.
+really undertake the project useful to the real world web application developments, and use this template for their future career.
+
+# Building/Testing application
+
+## Build Tools
+
+- Maven
+- Gradle
+
+## Test Tools
+
+- JUnit
+- DBUnit
+- Mockito
+- EasyMock
+
+## Coverage
+
+- Cobertura
+
+## Source Code Analytics
+
+- PMD
